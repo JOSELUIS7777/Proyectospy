@@ -1,0 +1,12 @@
+#5. UNA TIENDA DE MUSICA VENDE CD’S A 50 PESOS CADA UNO. REALIZAR UN PROGRAMAQUE CALCULE EL TOTALA PAGAR EN UNA COMPRA.
+
+print("5. UNA TIENDA DE MUSICA VENDE CD’S A 50 PESOS CADA UNO. REALIZAR UN PROGRAMAQUE CALCULE EL TOTALA PAGAR EN UNA COMPRA.")
+
+cd=float(input("Ingresa la cantidad de CD a comprar: "))
+
+p=50
+
+total=(cd*p)
+
+print("El total a pagar es: ",str(total),"pesos")
+
